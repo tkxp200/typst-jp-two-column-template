@@ -1,0 +1,1 @@
+# typst-two-column-template
